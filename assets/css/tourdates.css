@@ -1,0 +1,16 @@
+.list_left {
+    color: white;
+    display: inline-block;
+    line-height: 68px;
+    margin-inline: 389px;
+    
+}
+.list_right {
+    color: white;
+    display: inline-block;
+    line-height: 68px;
+}
+.title_tour {
+text-align: center;
+color: white;
+}

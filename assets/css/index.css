@@ -1,0 +1,46 @@
+
+
+main {
+    color: white;
+}
+.mid_title {
+    text-align: center;
+}
+.mid_subtitle {
+    text-align: center;
+}
+.mid_subtitle h3 {
+    border: 1px solid red;
+    width: 300px;
+    margin: 0 auto;
+}
+.horizontal_content {
+    width: 29%;
+    display: inline-block;
+}
+.horizontal_content p {
+    line-height: 1.8;
+}
+.text_left {
+    vertical-align: top;
+}
+.text_left p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text_right {
+    vertical-align: top;
+}
+.text_right p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.img_center img{
+    max-width: 100%;
+}
+.img_center {
+    width: 41%;
+}
+
+
+  

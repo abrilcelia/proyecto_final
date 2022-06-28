@@ -1,0 +1,13 @@
+.form {
+    color: white;
+    display: inline-block;
+}
+.img_band_content {
+    display: inline-block;
+    margin-left: 15px;
+    vertical-align: top;
+}
+.mid_content {
+    margin: 0 auto;
+    width: 1170px;
+}
