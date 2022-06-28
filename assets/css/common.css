@@ -9,11 +9,11 @@ body{
     color:black; 
     font-family: 'Bebas Neue', bold;
     font-size: 23px;
-    background-image: linear-gradient(to bottom black grey);
 }
 main { 
     background-color: black;
     padding-top: 30px;
+    background-image: linear-gradient(to bottom, black, grey);
 }
 header {
     background-color: white;
@@ -29,7 +29,7 @@ header {
     margin: 20px auto;
 }
 #title {
-    animation-duration: 2s;
+    animation-duration: 3s;
     animation-name: aparecer;
     animation-iteration-count: initial;
 }
