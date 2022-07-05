@@ -4,10 +4,30 @@
 }
 .img_band_content {
     display: inline-block;
-    margin-left: 15px;
     vertical-align: top;
 }
-.mid_content {
-    margin: 0 auto;
-    width: 1170px;
+
+.contact_title {
+    color:white;
+    margin-bottom: 59px;
+    text-align: center;
+}
+.text_area {
+    height: 227px;
+    width: 548px;
+
+}
+@media only screen and (max-width: 770px) {
+    .img_band_content {
+        width: 50%;
+    }
+}
+#name{
+    border-radius: 3px;
+}
+.form-control {
+    width: 200px !important;
+    flex:none !important;
+    border-top-right-radius: 3px !important;
+    border-bottom-right-radius: 3px !important;
 }
